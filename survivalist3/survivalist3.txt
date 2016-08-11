@@ -1,0 +1,7 @@
+"testmode"
+{
+	"base"		"base"
+	"title"		"Survivalist 3"
+	"menusystem"	"1"
+	"maps"		"^sv3_"
+}
