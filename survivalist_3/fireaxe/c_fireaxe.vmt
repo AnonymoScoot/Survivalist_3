@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+
+	$basetexture "models\weapons\survivalist_3\fireaxe\c_fireaxe"
+	$bumpmap "models\weapons\survivalist_3\fireaxe\c_fireaxe_normal"
+	
+	$phong 1
+	$phongexponent 22
+	$phongboost	2
+	$phongfresnelranges	"[0 0.5 1]"
+
+}

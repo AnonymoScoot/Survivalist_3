@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+
+	$basetexture "models\weapons\survivalist_3\beretta\c_beretta"
+//	$bumpmap "models\weapons\survivalist_3\beretta\c_beretta_normal"
+	
+//	$phong 1
+//	$phongexponent 15
+//	$phongboost	6
+//	$phongfresnelranges	"[0 0.5 1]"
+
+}
